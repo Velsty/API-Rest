@@ -1,0 +1,8 @@
+PUT http://localhost:3000/api/users/66d7880ad6d97f302de15c44 HTTP/1.1
+Content-Type: application/json
+
+{
+ "name": "Carlos Acosta",
+ "age": 45,
+ "email": "johnconway@email.com"
+}

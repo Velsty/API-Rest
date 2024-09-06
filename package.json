@@ -1,0 +1,30 @@
+{
+  "name": "api_react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "star": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@fontsource/roboto": "^5.0.14",
+    "@mui/icons-material": "^6.0.2",
+    "@mui/material": "^6.0.2",
+    "@mui/styled-engine-sc": "^6.0.2",
+    "axios": "^1.7.7",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.6.0",
+    "nodemon": "^3.1.4",
+    "styled-components": "^6.1.13"
+  }
+}
